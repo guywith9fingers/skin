@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328066653650945/basewhite.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328066653650945/basewhite.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328074908041216/triggers.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328074908041216/triggers.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328067664347136/bumper.svgz) no-repeat;
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328067664347136/bumper.svgz) no-repeat;
     opacity: 0;
 }
 
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328071980154910/start.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328071980154910/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328070764068894/face.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328070764068894/face.svgz);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328072831860757/sticks.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328072831860757/sticks.svgz);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328068775968780/dpad.svgz);
+    background: url(https://cdn.discordapp.com/attachments/607328021505900554/607328068775968780/dpad.svgz);
     position: absolute;
 }
 
@@ -280,7 +280,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328066653650945/basewhite.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328066653650945/basewhite.svgz);
 }
 
 .ds4.white.disconnected {
@@ -288,11 +288,11 @@ background-position: 0 -70px;
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328074908041216/triggers.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328074908041216/triggers.svgz);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328067664347136/bumper.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328067664347136/bumper.svgz);
 }
 
 .ds4.white .touchpad.pressed {
@@ -300,19 +300,19 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328071980154910/start.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328071980154910/start.svgz);
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328070764068894/face.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328070764068894/face.svgz);
 }
 
 .ds4.white .stick {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328072831860757/sticks.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328072831860757/sticks.svgz);
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/https://cdn.discordapp.com/attachments/607328021505900554/607328068775968780/dpad.svgz);
+    background-image: url(https://cdn.discordapp.com/attachments/607328021505900554/607328068775968780/dpad.svgz);
 }
 
 /*END PS4 White Controller Styling*/
